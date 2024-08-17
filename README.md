@@ -1,6 +1,6 @@
 # Single-Cycle-4-bit-Computer-
 ## Project Description
-A single-cycle processor is a type of CPU design where each instruction is executed in a single clock cycle. This architecture simplifies control and instruction fetching, ensuring uniform execution time for all instructions but may result in lower efficiency due to potential idle time in some stages during each cycle.
+A single-cycle processor is a type of CPU design where each instruction is executed in a single clock cycle. 
 
 ## Block Diagram
 ![image](https://github.com/user-attachments/assets/b75fa92d-a3a5-4c97-8c92-cc8557d9a430)
