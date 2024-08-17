@@ -8,8 +8,8 @@ A single-cycle processor is a type of CPU design where each instruction is execu
 ## Components
 ### Datapaths
 - **Register File**: Stores data temporarily during instruction execution.
-- **ALU (Arithmetic & Logic Functions)**: Performs arithmetic and logic operations on data.
-- **Shifter**: Changes the value on bus B, putting the result on MUX input F.
+- **ALU (Arithmetic & Logic Unit)**: Performs arithmetic and logic operations on data.
+- **Shifter**: Two main types of transformations on the data: shift-right and shift-left. In shifting to the left we only have.
 
 ### Memory
 - **Data Memory**: Holds data that the processor uses for computation or stores results.
