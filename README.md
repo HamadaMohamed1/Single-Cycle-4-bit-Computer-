@@ -39,10 +39,13 @@ The single-cycle computer supports the following instructions:
 - **SUBI**: Subtract Immediate
 - **LD**: Load
 - **ST**: Store
-- 
+  
 ## Assembler
 An assembler is used to convert low-level assembly language code into machine code. We used an ATmega32 microcontroller to convert assembly instructions into machine code, which is then stored in instruction memory.
 
+## Full Design
+![full design](https://github.com/HamadaMohamed1/Single-Cycle-4-bit-Computer-/assets/124931950/ddc877bd-6d26-44ab-a811-e84caa65e9c4)
+
 ## More details & videos :
 https://www.linkedin.com/posts/hamada-mohamed-9b480b248_simplecomputer-embedded-embeddedsystems-activity-7141180587259736064-TSUw?utm_source=share&utm_medium=member_desktop
-![full design](https://github.com/HamadaMohamed1/Single-Cycle-4-bit-Computer-/assets/124931950/ddc877bd-6d26-44ab-a811-e84caa65e9c4)
+
